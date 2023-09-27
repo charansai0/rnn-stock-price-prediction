@@ -22,9 +22,8 @@ load the stock dataset
 fit the model and then predict
 
 ## PROGRAM
-~~~
+```
  Developed by: v.charan sai
-
  Reg No: 212221240061
 ```
 ```
@@ -102,8 +101,8 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-~~~
-## OUTPUT
+```
+### OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
 <img width="413" alt="Screenshot 2023-09-27 085331" src="https://github.com/charansai0/rnn-stock-price-prediction/assets/94296221/b1d211a6-8ade-4964-8d90-3af607473f5f">
