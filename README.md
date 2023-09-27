@@ -22,9 +22,9 @@ load the stock dataset
 fit the model and then predict
 
 ## PROGRAM
-# Developed by: v.charan sai
+ Developed by: v.charan sai
 
-# Reg No: 212221240061
+ Reg No: 212221240061
 
 import numpy as np
 import matplotlib.pyplot as plt
