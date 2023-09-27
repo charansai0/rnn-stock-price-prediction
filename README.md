@@ -22,6 +22,7 @@ load the stock dataset
 fit the model and then predict
 
 ## PROGRAM
+~~~
  Developed by: v.charan sai
 
  Reg No: 212221240061
@@ -100,7 +101,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-
+~~~
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
