@@ -26,7 +26,8 @@ fit the model and then predict
  Developed by: v.charan sai
 
  Reg No: 212221240061
-
+```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
